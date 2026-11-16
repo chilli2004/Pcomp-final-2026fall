@@ -4,7 +4,7 @@
 
 A horror investigation game that combines a physical installation with storytelling on a computer. The player is a police officer examining a strange body assembled from different people's body parts, guided remotely by a detective. As the investigation progresses, the player discovers that the detective is the killer—and that they are his next intended victim.
 
-Estimated experience length: 3–5 minutes.
+Estimated experience length: 5 minutes.
 
 ## Physical Installation and Computer Interface
 
@@ -32,7 +32,7 @@ The detective drops his act, and the player realizes that they are part of his p
 
 The screen displays “The final donor has arrived,” while an LED inside the installation begins pulsing like a heartbeat.
 
-The dialogue and specific clues are still open to revision.
+It's all over!
 
 ## Communication Between Arduino and the Computer
 
