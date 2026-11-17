@@ -30,7 +30,7 @@ The hidden label reads:
 
 The detective drops his act, and the player realizes that they are part of his plan.
 
-The screen displays “The final donor has arrived,” while an LED inside the installation begins pulsing like a heartbeat.
+There should be some physical effect make a surprise (what effect/)
 
 It's all over!
 
