@@ -18,7 +18,7 @@ Estimated experience length: 5 minutes.
 |---|---|---|---|
 | 1 | Press or hold the hand | A missing person's file appears, revealing that the body parts belong to different people. | A button hidden in the palm |
 | 2 | Press a wound on the head | A voice says, “Don't listen to him.” The detective dismisses it as an old recording. | A button hidden beneath the wound |
-| 3 | Open the chest compartment | The player discovers an empty space for a missing body part and receives a clue about where to look next. | The closed lid holds down a button; opening it releases the button. |
+| 3 | Rotate the leg | The player rotate a leg and the light emit form the inside of the box. | potentialmeter and LED|
 | 4 | Open a small hidden panel | The player finds their own badge number on a physical label, triggering the ending. | The closed panel holds down a button; opening it releases the button. |
 
 ## Ending
