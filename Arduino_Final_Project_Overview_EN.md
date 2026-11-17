@@ -9,7 +9,7 @@ Estimated experience length: 5 minutes.
 ## Physical Installation and Computer Interface
 
 - **Physical installation:** An enclosure with limbs and a head attached in unusual positions. It has four interactive areas.
-- **Computer interface:** A case terminal made in p5.js, featuring the detective's dialogue, investigation tasks, evidence, and sound. Players examine the physical object and click the screen to advance dialogue.
+- **Computer interface:** A case terminal made in p5.js, featuring the detective's dialogue. Players examine the physical object and click the screen to advance dialogue.
 - **Opening:** The player's police ID and badge number, such as 0714, appear at the beginning to set up the final reveal.
 
 ## Four Physical Interactions
